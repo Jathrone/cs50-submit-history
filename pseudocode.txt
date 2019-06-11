@@ -1,0 +1,5 @@
+check user input
+if user input is incorrect, reprompt
+otherwise, check each character
+if the character is a letter, rotate letter
+otherwise, return the origin character
